@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login Statis</string>
+    <string name="Login">Log In</string>
+    <string name="logo_name">Tugas Mopro</string>
+    <string name="member_name">Fahni Amsyari\nFebby Adelia Irawan</string>
+    <string name="NIM">NIM</string>
+    <string name="password">Enter Password</string>
+    <string name="company">COMPANY PROFILE</string>
+    <string name="application">BUKA INSTAGRAM</string>
+</resources>
